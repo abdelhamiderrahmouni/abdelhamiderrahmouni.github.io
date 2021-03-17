@@ -1,3 +1,4 @@
+import "lightbox.js"
 (function($) {
   var toggle = document.getElementById("menu-toggle");
   var menu = document.getElementById("menu");
